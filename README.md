@@ -1,4 +1,4 @@
-# customer-behaviour-analysis
+# Customer-Behaviour-Analysis
 Overview
 
 This project demonstrates an end-to-end Data Analytics Workflow using Python, SQL, and Power BI. The objective is to extract meaningful insights from raw data through data cleaning, exploratory data analysis (EDA), SQL querying, and dashboard visualization. The final insights are presented through a professional report and presentation.
